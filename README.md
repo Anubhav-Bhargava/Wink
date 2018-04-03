@@ -12,4 +12,6 @@ A simple program to detect winks ;)
 
 ### Execution
 
+```
 python wink.py
+```
